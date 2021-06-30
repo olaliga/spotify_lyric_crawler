@@ -1,7 +1,8 @@
 # spotify_lyric_crwler
-spotify_lyric_crwler 會從魔境歌詞網中抓取 spotify 播放清單中的中文歌曲的歌詞
+spotify_lyric_crwler 會從魔境歌詞網中抓取 Spotify 播放清單中的中文歌曲的歌詞
 
-但你需要先去註冊 spotify api 獲得
+但你需要先去註冊 Spotify api 獲得 CLIENT_ID, CLIENT_SECRET 並且設定當中
+
 
 此程式需要 6 個參數：
 
