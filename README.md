@@ -2,6 +2,7 @@
 spotify_lyric_crwler 會從魔境歌詞網中抓取 Spotify 播放清單中的中文歌曲的歌詞
 
 但你需要先去以下網址註冊 Spotify api 獲得 CLIENT_ID, CLIENT_SECRET 並且設定當中 redirect url
+
 https://developer.spotify.com/dashboard/
 
 此程式需要 6 個參數：
