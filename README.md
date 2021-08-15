@@ -20,3 +20,4 @@ spotify_lyric_crwler 會從魔境歌詞網中抓取 Spotify 播放清單中的�
 
     
 usage : 
+python3 main.py USERNAME SPOTIPY_CLIENT_ID SPOTIPY_CLIENT_SECRET file_name redirect_url playlist
